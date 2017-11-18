@@ -25,7 +25,7 @@ SECRET_KEY = '72cw(z&3(1$2a-a*rd0$#sk_x72%%fz-9xb5+u21(7hb2j1ih!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rakete.pythonanywhere.com"]
 
 
 # Application definition
